@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.netbeans.modules.web.primefaces.crudgenerator
+OpenIDE-Module-Install: org/netbeans/modules/web/primefaces/crudgenerator/Installer.class
+OpenIDE-Module-Layer: org/netbeans/modules/web/primefaces/crudgenerator/resources/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/web/primefaces/crudgenerator/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.36
+
